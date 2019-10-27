@@ -58,11 +58,11 @@
 		68ED12B2236071F3008CB3DC /* ToDoey */ = {
 			isa = PBXGroup;
 			children = (
+				68ED12B3236071F3008CB3DC /* AppDelegate.swift */,
 				68F29FD92364628A00DFA870 /* Controllers */,
 				68F29FD82364627200DFA870 /* Data Model */,
 				68F29FDA236462A200DFA870 /* View */,
 				68F29FDB236462BE00DFA870 /* Supporting Files */,
-				68ED12B3236071F3008CB3DC /* AppDelegate.swift */,
 				68ED12B5236071F3008CB3DC /* SceneDelegate.swift */,
 				68ED12C1236071F3008CB3DC /* Info.plist */,
 			);
